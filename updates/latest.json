@@ -2,17 +2,18 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5208,
-  "versionName": "5.1.52",
+  "versionCode": 5209,
+  "versionName": "5.1.53",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "98e2c996ce8a4e49386a9057bc859b6f960ae09dca29fa6b2f15c43758b21a69",
+  "sha256": "ce995b61e45106d1d3c36a5ff09ddeb22f9e6ba77dfc6e156203ea6486a68622",
   "size": 74093111,
   "mandatory": false,
   "releaseDate": "2026-08-24",
   "notes": [
-    "Version 5.1.52",
-    "Nouvelle icone smartphone STVN Live",
-    "Fond bleu nuit avec logo STVN et live",
-    "Icones launcher alignees sur le visuel STVN complet"
+    "Version 5.1.53",
+    "Synchronisation des codes ajoutee dans A propos",
+    "Bouton Synchronisation des codes ajoute a l'ecran d'accueil sans playlist",
+    "Suppression de la ligne Etat de la synchronisation en double"
   ]
 }
+
