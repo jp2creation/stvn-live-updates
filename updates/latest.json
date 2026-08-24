@@ -2,18 +2,18 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5209,
-  "versionName": "5.1.53",
+  "versionCode": 5210,
+  "versionName": "5.1.54",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "ce995b61e45106d1d3c36a5ff09ddeb22f9e6ba77dfc6e156203ea6486a68622",
+  "sha256": "fe0f6210d52f8e3efca6393d735b36c4a2cb50a0af2fcb877b25e9de641bf1eb",
   "size": 74093111,
   "mandatory": false,
   "releaseDate": "2026-08-24",
   "notes": [
-    "Version 5.1.53",
-    "Synchronisation des codes ajoutee dans A propos",
-    "Bouton Synchronisation des codes ajoute a l'ecran d'accueil sans playlist",
-    "Suppression de la ligne Etat de la synchronisation en double"
+    "Version 5.1.54",
+    "Correction de l'affichage du bouton Synchroniser les codes sur l'ecran d'accueil sans playlist",
+    "Detection du bouton Ajouter une liste de lecture au moment de son affichage",
+    "Synchroniser les codes reste disponible dans A propos et StvnPro"
   ]
 }
 
