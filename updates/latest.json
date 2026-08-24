@@ -2,18 +2,18 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5215,
-  "versionName": "5.1.59",
+  "versionCode": 5216,
+  "versionName": "5.1.60",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "5f0a6be92ee635c3720512d32eafd6bd3af4ae84604be33177246fe34399960c",
+  "sha256": "a0c350055dcada381f42291939a257f4e4d523ac15acc418c7567fdfb58cc9eb",
   "size": 74076727,
   "mandatory": false,
   "releaseDate": "2026-08-24",
   "notes": [
-    "Version 5.1.59",
-    "Correction definitive du cercle live tronque dans le logo affiche dans l'application",
-    "Reconstruction du logo interne avec un cercle live complet",
-    "Corrections Synchroniser les codes, Annuler et acces A propos/StvnPro conservees"
+    "Version 5.1.60",
+    "EPG: mise a jour au demarrage activee par defaut",
+    "Panneau d'information: style de carte et affichage en bas actives par defaut",
+    "Groupes: categories Toutes les listes de lectures, Favoris et Toutes les Chaines desactivees par defaut"
   ]
 }
 
