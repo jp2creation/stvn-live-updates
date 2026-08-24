@@ -2,17 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5206,
-  "versionName": "5.1.50",
+  "versionCode": 5207,
+  "versionName": "5.1.51",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "68cf342115cb93a956423b453c8c8e0994befab4b98d621448a195be66a65d1e",
+  "sha256": "adb688aca81b5373fb736537c6ea2b597eb6578ccb9a3f7c677b7851fff53026",
   "size": 74175031,
   "mandatory": false,
   "releaseDate": "2026-08-24",
   "notes": [
-    "Version 5.1.50",
-    "Synchronisation des codes affichee dans A propos",
-    "Bouton Synchronisation des codes ajoute a l'ecran initial sans playlist",
-    "Acces direct pour synchroniser sans passer par StvnPro"
+    "Version 5.1.51",
+    "Correction installation mise a jour refusee par Android",
+    "Ouverture directe de l'autorisation installer depuis STVN Live si necessaire",
+    "Installateur Android standard utilise pour eviter Permission denied"
   ]
 }
