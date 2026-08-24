@@ -2,17 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5204,
-  "versionName": "5.1.48",
+  "versionCode": 5205,
+  "versionName": "5.1.49",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "60a701adfbdd5ec22408fc394e1bb80e1d30941dafb4458d6e0b681edb735b98",
+  "sha256": "e075b2a99cd9f10a62812c987db698fb39f3cc806c70339e52e3856303ea2238",
   "size": 74175031,
   "mandatory": false,
-  "releaseDate": "2026-08-23",
+  "releaseDate": "2026-08-24",
   "notes": [
-    "Version 5.1.48",
-    "Menus parametres masques par defaut sauf StvnPro et A propos",
-    "A propos simplifie et libelle Prenium",
-    "Accueil Stvn Live"
+    "Version 5.1.49",
+    "StvnPro protege par controle parental des l'ouverture",
+    "Code parental par defaut 0660",
+    "Aucune ouverture StvnPro sans PIN valide"
   ]
 }
