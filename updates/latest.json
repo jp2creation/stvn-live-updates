@@ -2,17 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5226,
-  "versionName": "5.1.70",
+  "versionCode": 5227,
+  "versionName": "5.1.71",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "253b2cb2374ea4995a731dadc24bf1f27dfdaa9d4f63ad5c704fee6aa145ebcc",
+  "sha256": "d37ff2f0838d62b60beab733b4cd7bc2bc2a1e42110605f03fc8c744d5ac6333",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-25",
   "notes": [
-    "Version 5.1.70",
-    "Télécommande > Lecteur > Retour forcé par défaut sur Revenir pour tous les utilisateurs via migration 5.1.70",
-    "Logo menu haut gauche conservé : logo original fourni, réduit avec marge anti-rognage",
-    "Conserve adresse STVN sous la version dans À propos"
+    "Version 5.1.71",
+    "Paramètres > onglet À propos/Infos STVN Live : affichage de l'adresse STVN/MAC directement dans le résumé",
+    "Conserve Télécommande > Lecteur > Retour sur Revenir",
+    "Conserve logo original réduit avec marge anti-rognage"
   ]
 }
