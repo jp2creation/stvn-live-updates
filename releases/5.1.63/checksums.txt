@@ -1,0 +1,2 @@
+SHA256  a43d8175b765a8b16915f9a35e7bf184b835c55109f4e7921f74f9b653aa605f  stvn-live.apk
+SIZE    74093111  stvn-live.apk
