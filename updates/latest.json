@@ -2,17 +2,18 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5217,
-  "versionName": "5.1.61",
+  "versionCode": 5218,
+  "versionName": "5.1.62",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "adaa408f463d46c1d053960df024fdb43e2f47739b143baf5c93dd0e1c17aa10",
+  "sha256": "463a665d800529487f809ba1c5d8307b2a2d1c8cb58b1e3f512cc511b5605685",
   "size": 74093111,
   "mandatory": false,
-  "releaseDate": "2026-08-24",
+  "releaseDate": "2026-08-25",
   "notes": [
-    "Version 5.1.61",
-    "Logo du menu gauche restaure depuis l'original et reduit pour rentrer entierement dans le rectangle",
-    "Marge interne ajoutee pour eviter le tronquage du cercle live"
+    "Version 5.1.62",
+    "Telecommande Lecteur: valeurs par defaut alignees sur le parametrage demande",
+    "Appuis longs Retour/Gauche/Droite/Haut/Bas regles sur Ignorer",
+    "Droite alignee sur Gauche pour afficher la liste des chaines en superposition"
   ]
 }
 
