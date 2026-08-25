@@ -2,17 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5220,
-  "versionName": "5.1.64",
+  "versionCode": 5221,
+  "versionName": "5.1.65",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "aa98e34e8d0bf7510d4ba279062d091baa363ab0ccac733331cbc8efbcfcf82b",
-  "size": 74093111,
+  "sha256": "1395f1e8f5430f668d1bbe6c270d1200965e3f8e31bc8a2180289d14efcf9c7d",
+  "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-25",
   "notes": [
-    "Version 5.1.64",
-    "Correction demarrage TV: suppression du blocage ecran noir du launcher",
-    "Le lancement Leanback ouvre directement STVN Live",
-    "Conserve les corrections de reglages Lecteur et StvnPro precedentes"
+    "Version 5.1.65",
+    "Correction logo: réduction du logo STVN Live pour afficher entièrement le cercle autour de Live",
+    "APK signé avec la clé release STVN Live 2026"
   ]
 }
