@@ -2,18 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5219,
-  "versionName": "5.1.63",
+  "versionCode": 5220,
+  "versionName": "5.1.64",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "a43d8175b765a8b16915f9a35e7bf184b835c55109f4e7921f74f9b653aa605f",
+  "sha256": "aa98e34e8d0bf7510d4ba279062d091baa363ab0ccac733331cbc8efbcfcf82b",
   "size": 74093111,
   "mandatory": false,
   "releaseDate": "2026-08-25",
   "notes": [
-    "Version 5.1.63",
-    "Correction Telecommande Lecteur: migration des reglages existants",
-    "Les valeurs du menu Lecteur sont appliquees automatiquement comme sur les photos",
-    "Restaure l'acces coherent aux reglages apres mise a jour"
+    "Version 5.1.64",
+    "Correction demarrage TV: suppression du blocage ecran noir du launcher",
+    "Le lancement Leanback ouvre directement STVN Live",
+    "Conserve les corrections de reglages Lecteur et StvnPro precedentes"
   ]
 }
-
