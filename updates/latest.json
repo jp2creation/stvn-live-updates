@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5238,
-  "versionName": "5.1.82",
+  "versionCode": 5239,
+  "versionName": "5.1.83",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "c9e91ce852fa4cda943e298370361c18072ffd007ce7c5c8cc20e7bcf36da5d9",
+  "sha256": "e85dd4aeccb8da802674fe15b38ac315957867ae757e76239a8732eeda505a10",
   "size": 74154551,
   "mandatory": false,
   "releaseDate": "2026-08-26",
   "notes": [
-    "Ajout du bouton Synchroniser les codes sur l'ecran Welcome, entre Ajouter une liste de lecture et Parametres."
+    "Retrait du bouton Synchroniser les codes de l'ecran Welcome; retour aux deux boutons Ajouter une liste de lecture et Parametres."
   ]
 }
