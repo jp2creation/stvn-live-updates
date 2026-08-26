@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5240,
-  "versionName": "5.1.84",
+  "versionCode": 5241,
+  "versionName": "5.1.85",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "2b35870a791f91fc538ef4eed6972338b53936b291699ba7f0fec0dfc032485e",
-  "size": 74154551,
+  "sha256": "0ef255f8e0c3ba2638e7352ddf8c7b41be03d1ee26f05432acbd981b445fd9a1",
+  "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-26",
   "notes": [
-    "Le logo STVN Live ne s'affiche plus comme watermark pendant la TV ou le guide; il reste uniquement sur l'ecran Welcome de premiere connexion."
+    "Retrait complet du logo injecte STVN Live qui restait affiche en watermark; aucun overlay logo ne s'affiche plus sur TV, guide, Settings ou Welcome."
   ]
 }
