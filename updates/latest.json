@@ -2,16 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5228,
-  "versionName": "5.1.72",
+  "versionCode": 5230,
+  "versionName": "5.1.74",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "6f58ca2c817947e3b44d432b575d1f619b322e18cd816e2686d35dd289cb2cd6",
+  "sha256": "9f3408d9acccb026cf9f1c618bcb386eb58fdfe774da9afb9cce2d85c8bdaba0",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-26",
   "notes": [
-    "Version 5.1.72",
-    "À propos natif : ajout d'une ligne Adresse STVN sous Version avec l'adresse MAC/appareil",
-    "Conserve STVN Pro, synchronisation codes, mise à jour, retour Revenir et logo original"
+    "Version 5.1.74",
+    "Testé en émulateur Android : À propos affiche Adresse STVN et l'adresse MAC sous Version",
+    "Corrige la condition d'ajout de la ligne Adresse STVN dans le panneau À propos natif",
+    "Conserve retour Revenir et logo original"
   ]
 }
