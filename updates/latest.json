@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5232,
-  "versionName": "5.1.76",
+  "versionCode": 5233,
+  "versionName": "5.1.77",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "b1c50fcb66c61e82370548ed63f241b12232af93829dfe893ce8471b03d1c57e",
-  "size": 74072631,
+  "sha256": "13a2ec46e82bbc16e87e29f4310aad85ca0fb35b49ce8dce079e134f1f49307b",
+  "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-26",
   "notes": [
-    "Ajoute le logo STVN Live centré au-dessus de l'écran Welcome lors de la première connexion; vérifié sur émulateur avant publication."
+    "Remplace le logo texte de l'écran Welcome par le vrai logo image STVN Live fourni; vérifié sur émulateur avant publication."
   ]
 }
