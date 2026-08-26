@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5237,
-  "versionName": "5.1.81",
+  "versionCode": 5238,
+  "versionName": "5.1.82",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "c3c9c812ab768f9c55de7f925146659ba162ae8814e8c119eac9cfa33d1728d2",
+  "sha256": "c9e91ce852fa4cda943e298370361c18072ffd007ce7c5c8cc20e7bcf36da5d9",
   "size": 74154551,
   "mandatory": false,
   "releaseDate": "2026-08-26",
   "notes": [
-    "Ajuste le logo Welcome pour la résolution 1280x720 afin qu'il reste centré mais ne dépasse plus dans le panneau À propos/Paramètres; vérifié sur émulateur avant publication."
+    "Ajout du bouton Synchroniser les codes sur l'ecran Welcome, entre Ajouter une liste de lecture et Parametres."
   ]
 }
