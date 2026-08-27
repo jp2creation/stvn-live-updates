@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5243,
-  "versionName": "5.1.87",
+  "versionCode": 5244,
+  "versionName": "5.1.88",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "f53f51396f142803c78184b7897e5de3cb993b02acb6034d4283a718e330b98b",
+  "sha256": "5682ecda75cff9b12113df3e61052076adcba93fb403ed9fd8645e67145e737f",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-27",
   "notes": [
-    "Ajout manuel STVN utilisable sans attribution panel: écran Service ouvre Configuration STVN avec DNS principal http://api.stvn.pro prérempli; PIN STVNPro conservé par sélecteur de chiffres; panel reste une aide de gestion."
+    "Rollback playlist: retrait du formulaire Configuration STVN et du DNS forcé ajoutés en 5.1.87; conservation du PIN StvnPro par sélecteur de chiffres et des correctifs force-update GitHub."
   ]
 }
