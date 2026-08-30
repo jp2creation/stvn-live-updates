@@ -2,14 +2,15 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5250,
-  "versionName": "5.1.94",
+  "versionCode": 5251,
+  "versionName": "5.1.95",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "b0b9e264be45d340d16a47c255b3bc606b1238e4dd52a148bf30b37ef7177971",
+  "sha256": "ad0c56671722844ca11eb74263591a32b3e3440140f3d3c10c6ec3d570e7f20b",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-30",
   "notes": [
+    "Correction du blocage de validation au démarrage.",
     "Synchronisation des suppressions de listes secondaires depuis le panel."
   ]
 }
