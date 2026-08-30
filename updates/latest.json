@@ -2,16 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5252,
-  "versionName": "5.1.96",
+  "versionCode": 5253,
+  "versionName": "5.1.97",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "07e848b876dc5954b52f94607ce178758bf67aa885267dea4d17feb4eb9aa4bf",
+  "sha256": "b6d611365c34d448b117b0f66e775438abf81818efcb4fc39e3ae8838fd103f2",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-30",
   "notes": [
-    "Ajout du choix Codes Xtream ou M3U dans les autres listes de lecture.",
-    "Support des URL EPG pour les listes M3U secondaires.",
-    "Synchronisation des suppressions de listes secondaires depuis le panel."
+    "Parametres Telecommande > Lecteur appliques par defaut selon la configuration STVN."
   ]
 }
