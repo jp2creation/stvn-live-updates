@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5247,
-  "versionName": "5.1.91",
+  "versionCode": 5248,
+  "versionName": "5.1.92",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "662338c7c118edac63ca37cb7b2878359e895fe4f59672f9d661b33250ceabea",
+  "sha256": "1983128ff7173793b8f53a2845f317d0b65841781280bfaae7fe31fb235851e1",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-30",
   "notes": [
-    "Version signée avec la clé STVN Live GitHub pour mise à jour 5.1.91."
+    "Ajout du support multi-listes par appareil depuis le panel STVN."
   ]
 }
