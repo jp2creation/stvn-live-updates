@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5249,
-  "versionName": "5.1.93",
+  "versionCode": 5250,
+  "versionName": "5.1.94",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "d9140f950b46bb3ceabdd18582103bd2d0c53de23c30420d4ab6388521dbe504",
+  "sha256": "b0b9e264be45d340d16a47c255b3bc606b1238e4dd52a148bf30b37ef7177971",
   "size": 74072631,
   "mandatory": false,
   "releaseDate": "2026-08-30",
   "notes": [
-    "Nettoyage automatique des anciennes listes Sansat au démarrage."
+    "Synchronisation des suppressions de listes secondaires depuis le panel."
   ]
 }
