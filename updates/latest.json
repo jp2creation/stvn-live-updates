@@ -2,16 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5270,
-  "versionName": "5.2.5",
+  "versionCode": 5271,
+  "versionName": "5.2.6",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "e62af8cf52ae6c8a7f46284a933d7e2c34113d6a4c31f76d79ae98ca1c11aca4",
+  "sha256": "18b3676257887d7e81f7192f80484c629efa0db0b0f5640a81af4d22db3ce1dd",
   "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-31",
   "notes": [
-    "Ajout de l'option pour cacher le titre des annonces.",
-    "Le bandeau STVN est plus transparent.",
-    "Le bandeau STVN utilise environ deux tiers de la largeur de l'ecran."
+    "Validation appareil par MAC quand Android la fournit.",
+    "Migration automatique de l'ancienne adresse STVN vers la MAC appareil.",
+    "Protection du nettoyage des listes pour eviter la perte des chaines au redemarrage."
   ]
 }
