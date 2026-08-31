@@ -2,15 +2,15 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5271,
-  "versionName": "5.2.6",
+  "versionCode": 5272,
+  "versionName": "5.2.7",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "18b3676257887d7e81f7192f80484c629efa0db0b0f5640a81af4d22db3ce1dd",
+  "sha256": "69a7494703cacb5b2c7766ee51ae6c53222f1538b2dbdd2de6ab9d13cabd2dfa",
   "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-31",
   "notes": [
-    "Validation appareil par MAC quand Android la fournit.",
+    "Validation appareil par MAC quand Android la fournit, avec fallback systeme sur les appareils compatibles.",
     "Migration automatique de l'ancienne adresse STVN vers la MAC appareil.",
     "Protection du nettoyage des listes pour eviter la perte des chaines au redemarrage."
   ]
