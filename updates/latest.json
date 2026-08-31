@@ -2,15 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5267,
-  "versionName": "5.2.2",
+  "versionCode": 5269,
+  "versionName": "5.2.4",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "423cd6f15c0306417ceaff107f44b7dbe13528e863f66a872d89c117ef3f20e0",
+  "sha256": "36facbbcfd4d5c9b7c796e5d00e3386ad97f1f2cf5c541db6bdef3da612f1ec4",
   "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-31",
   "notes": [
-    "Ajout des messages panel dans l'application.",
-    "Les annonces actives du panel peuvent s'afficher a l'ouverture."
+    "Ajout des options de frequence des annonces.",
+    "Ajout de la duree d'affichage configurable du bandeau.",
+    "Le bandeau s'affiche en haut et dure 14 secondes par defaut."
   ]
 }
