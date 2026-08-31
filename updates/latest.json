@@ -2,14 +2,15 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5257,
+  "versionCode": 5265,
   "versionName": "5.2",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "d330e5530dbde83b4d47b07a19dd5508c0a806bd182e9c91d8b8901ea76a7039",
-  "size": 74072631,
+  "sha256": "bbd55681b9aaa7fa3f1af4d901bbde3ef7805376e8a7edb0ae8aad6e9b9bae65",
+  "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-31",
   "notes": [
-    "Passage de STVN Live en version 5.2."
+    "Passage de STVN Live en version 5.2.",
+    "Correction des paramètres par défaut de la télécommande."
   ]
 }
