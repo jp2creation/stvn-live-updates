@@ -2,16 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5269,
-  "versionName": "5.2.4",
+  "versionCode": 5270,
+  "versionName": "5.2.5",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "36facbbcfd4d5c9b7c796e5d00e3386ad97f1f2cf5c541db6bdef3da612f1ec4",
+  "sha256": "e62af8cf52ae6c8a7f46284a933d7e2c34113d6a4c31f76d79ae98ca1c11aca4",
   "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-08-31",
   "notes": [
-    "Ajout des options de frequence des annonces.",
-    "Ajout de la duree d'affichage configurable du bandeau.",
-    "Le bandeau s'affiche en haut et dure 14 secondes par defaut."
+    "Ajout de l'option pour cacher le titre des annonces.",
+    "Le bandeau STVN est plus transparent.",
+    "Le bandeau STVN utilise environ deux tiers de la largeur de l'ecran."
   ]
 }
