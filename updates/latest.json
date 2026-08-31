@@ -4,7 +4,7 @@
   "packageName": "ar.tvplayer.tv",
   "versionCode": 5257,
   "versionName": "5.2",
-  "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
+  "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
   "sha256": "d330e5530dbde83b4d47b07a19dd5508c0a806bd182e9c91d8b8901ea76a7039",
   "size": 74072631,
   "mandatory": false,
