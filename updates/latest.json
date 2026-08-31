@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5254,
-  "versionName": "5.1.98",
+  "versionCode": 5255,
+  "versionName": "5.1.99",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "eb543f278cb3d9bfd4f869460f48a30583e9fe6c006d9f6e3671755fb94bb90a",
+  "sha256": "eed5a9c8ab0e81c2dc5e71e5b5486b11eeaea283bf05ff5d08ab2521cba65b98",
   "size": 74072631,
   "mandatory": false,
-  "releaseDate": "2026-08-30",
+  "releaseDate": "2026-08-31",
   "notes": [
-    "Parametres Panneau d'information, EPG et Groupes appliques par defaut selon la configuration STVN."
+    "Paramètres Télécommande > Lecteur corrigés selon les captures STVN."
   ]
 }
