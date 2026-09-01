@@ -2,15 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5276,
-  "versionName": "5.2.92",
+  "versionCode": 5277,
+  "versionName": "5.2.93",
   "apkUrl": "https://tivi.stvn.pro/stvn-live.apk",
-  "sha256": "982959f66a3f09d8500716aa0b8fad50c0aff3451b430d5a9b239a5e99986cbe",
+  "sha256": "495d2e074b31657b159bd83844f93a57287c2fcd0be8de2617c6b1440d075b68",
   "size": 74089015,
   "mandatory": false,
   "releaseDate": "2026-09-01",
   "notes": [
     "Bandeau d'annonces STVN aligne sur le style carte du panneau d'information.",
-    "Correction de la boucle d'affichage des annonces apres fermeture du bandeau ou de la fenetre."
+    "Correction de la boucle d'affichage des annonces apres fermeture du bandeau ou de la fenetre.",
+    "Un meme message ne se relance plus en continu pendant la meme session de l'application."
   ]
 }
