@@ -2,14 +2,14 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5279,
-  "versionName": "5.2.95",
+  "versionCode": 5281,
+  "versionName": "5.2.97",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "6821b858990c81254b387f9f476a447a1935024c415b7ec8b2f2c4821006a994",
-  "size": 74089015,
+  "sha256": "9f2c0cd308283e617c7355bf82c652b49d0f0c9b3776825a1c976efd26ac1f93",
+  "size": 74105473,
   "mandatory": false,
   "releaseDate": "2026-09-01",
   "notes": [
-    "Version 5.2.95"
+    "Version 5.2.97"
   ]
 }
