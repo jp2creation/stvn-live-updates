@@ -2,15 +2,17 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5299,
-  "versionName": "5.2.115",
+  "versionCode": 5300,
+  "versionName": "5.2.2",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "e7ab55087292beddf45eb64cd15a4bae645eb4ac255fde7e29e07b9139c02675",
+  "sha256": "1264d354308ba9feaaea5ced72be39ba9be0f93c28ab43c5004422a612176469",
   "size": 74121857,
   "mandatory": false,
   "releaseDate": "2026-09-02",
   "notes": [
-    "Version 5.2.115",
-    "Mises a jour : verification directe sur GitHub au demarrage, sans attendre le panel PlanetHoster."
+    "Version 5.2.2",
+    "Renommage Prenium/Premium en StvnPro.",
+    "Affichage MAC nettoye et DNS masque dans la configuration recue.",
+    "Masquage renforce des fonctions enregistrement et telechargement."
   ]
 }
