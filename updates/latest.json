@@ -2,15 +2,15 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5297,
-  "versionName": "5.2.113",
+  "versionCode": 5298,
+  "versionName": "5.2.114",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "aa21eaafca81febbded8842f6047c6c15786f8cfcbcb63344d2ef6b9198f99c8",
+  "sha256": "b8ea4e825f925f18a60f903486b8861f720aea591521d5fd56bdd8eb3d2ab3fb",
   "size": 74121857,
   "mandatory": false,
   "releaseDate": "2026-09-02",
   "notes": [
-    "Version 5.2.113",
-    "Les restrictions configurees dans Appareils STVN sont appliquees aux options masquees dans l'application."
+    "Version 5.2.114",
+    "Synchro appareils : ajout d'un secours IP direct vers PlanetHoster si la TV ne joint pas tivi.stvn.pro."
   ]
 }
