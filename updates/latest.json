@@ -2,16 +2,16 @@
   "appId": "stvn-live",
   "appName": "STVN Live",
   "packageName": "ar.tvplayer.tv",
-  "versionCode": 5295,
-  "versionName": "5.2.111",
+  "versionCode": 5296,
+  "versionName": "5.2.112",
   "apkUrl": "https://raw.githubusercontent.com/jp2creation/stvn-live-updates/main/downloads/stvn-live.apk",
-  "sha256": "3d80adcd0bf4a820b679ec08cb65f4ed374b4511cfa3097880e959ea8a48e0eb",
+  "sha256": "6696148bf2f617e6fdfe6d9789157cec743661c8880fd111c83974086caed213",
   "size": 74121857,
   "mandatory": false,
   "releaseDate": "2026-09-02",
   "notes": [
-    "Version 5.2.111",
-    "Synchronisation STVN : import automatique réel des chaînes",
-    "Logo de première ouverture limité à l’écran d’accueil initial"
+    "Version 5.2.112",
+    "Synchronisation appareils : secours HTTP si HTTPS ne passe pas sur certaines TV",
+    "Conserve l’import automatique réel des chaînes après synchro STVN"
   ]
 }
